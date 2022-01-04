@@ -40,7 +40,7 @@
 
 <pre>
 <code>
-  git clone https://github.com/LuzianeFreitas/componentizando-aplicacao.git
+  git clone https://github.com/MiguelMarcola/movies-list.git
 </code>
 </pre>
 
